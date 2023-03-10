@@ -1,6 +1,6 @@
 /* ejercicio 1 cooperativo 2 */
 
-#include <stdio.h>  //libreria de entrada salida
+#include <stdio.h>  
 
 int main ()
 {
