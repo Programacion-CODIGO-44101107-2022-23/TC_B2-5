@@ -1,8 +1,6 @@
 /* ejercicio 2 cooperativo 3 */
 
 
-
-
 #include <stdio.h>
 
 
