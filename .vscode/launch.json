@@ -10,6 +10,7 @@
             "request": "attach",
             "program": "Escriba el nombre del programa; por ejemplo, ${workspaceFolder}/a.out.",
             "MIMode": "gdb",
+            
             "setupCommands": [
                 {
                     "description": "Habilitar la impresión con sangría para gdb",
