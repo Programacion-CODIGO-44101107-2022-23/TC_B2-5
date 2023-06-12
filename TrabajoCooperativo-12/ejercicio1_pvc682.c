@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
 #include <ctype.h>
 #include <math.h>
 
@@ -22,7 +21,7 @@ int main(){
    
     do{ system("cls");
         printf("programa fvpa\n");
-        printf("====================================\n\n");
+        printf("=============\n\n");
        
 
         fich = fopen (NOMBRE, "w");
@@ -34,7 +33,6 @@ int main(){
         }while (n <= 0);
         if (n % 2 == 0)
         {
-            //si n es par, escribo el triangulo
             for (i=1; i<=n; i++)
             {
                 for (j=1; j<=i; j++)
@@ -48,7 +46,6 @@ int main(){
         }
         else
         {
-            //si n es impar, escribo el rombo
             aste = 1;
             espa = (n-1) / 2;
             for (i=1; i<=n; i++)
@@ -85,7 +82,7 @@ int main(){
 
 
         printf("\n\nDesea efectuar una nueva operacion (s/n)? ");
-        c=toupper(getch());
+        c=toupper(getchar());
     }while (c!='N');
     return 0;
 }

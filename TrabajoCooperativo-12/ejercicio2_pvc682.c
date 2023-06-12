@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <conio.h>
 #include <ctype.h>
 #include <math.h>
 
@@ -108,7 +107,7 @@ void insertarpunto (tipovector x, tipovector y, int *n)
         scanf (" %lf", &x[*n]);
         printf ("\ny = ");
         scanf (" %lf", &y[*n]);
-        *n = *n + 1; // o si lleva asterisco hay que poner parentesis (*n)++;
+        *n = *n + 1; 
     }
 }
 
