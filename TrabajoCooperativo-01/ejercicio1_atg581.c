@@ -1,5 +1,4 @@
 #include <stdio.h>
-/* Programa inicial */
 
 int main(){
 	
