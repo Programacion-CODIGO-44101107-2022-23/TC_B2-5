@@ -1,0 +1,6 @@
+nº contador: 3691043166747910144  consumo: 0 kWh
+nº contador: 129173103616  consumo: 0 kWh
+nº contador: 22286238332958519  consumo: 0 kWh
+nº contador: 4740038607807447100  consumo: 0 kWh
+nº contador: 1391933441041313081  consumo: 0 kWh
+nº contador: 3761688987797815296  consumo: 0 kWh
