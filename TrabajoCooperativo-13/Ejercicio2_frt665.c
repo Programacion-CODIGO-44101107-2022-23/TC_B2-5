@@ -8,7 +8,7 @@ typedef struct
     float lecturaanterior;
 }tipocliente;
 
-typedef struct
+typedef struct 
 {
     long ncontador;
     float lecturaactual;
